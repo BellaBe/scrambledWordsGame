@@ -1,0 +1,7 @@
+C:\Users\Bella\source\repos\ScrambledWordConsoleApp\ScrambledWordConsoleApp\bin\Debug\ScrambledWordConsoleApp.exe.config
+C:\Users\Bella\source\repos\ScrambledWordConsoleApp\ScrambledWordConsoleApp\bin\Debug\ScrambledWordConsoleApp.exe
+C:\Users\Bella\source\repos\ScrambledWordConsoleApp\ScrambledWordConsoleApp\bin\Debug\ScrambledWordConsoleApp.pdb
+C:\Users\Bella\source\repos\ScrambledWordConsoleApp\ScrambledWordConsoleApp\obj\Debug\ScrambledWordConsoleApp.csprojAssemblyReference.cache
+C:\Users\Bella\source\repos\ScrambledWordConsoleApp\ScrambledWordConsoleApp\obj\Debug\ScrambledWordConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Bella\source\repos\ScrambledWordConsoleApp\ScrambledWordConsoleApp\obj\Debug\ScrambledWordConsoleApp.exe
+C:\Users\Bella\source\repos\ScrambledWordConsoleApp\ScrambledWordConsoleApp\obj\Debug\ScrambledWordConsoleApp.pdb
